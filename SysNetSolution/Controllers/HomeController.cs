@@ -14,6 +14,7 @@ namespace SysNetSolution.Controllers
        
         public HomeController(ILogger<HomeController> logger)
         {
+            //new f
             _logger = logger;
            
         }
