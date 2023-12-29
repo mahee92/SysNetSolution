@@ -31,6 +31,8 @@ namespace SysNetSolution.Controllers
         {
             try {
 
+
+
                 string subject = "Message from NetSys";
                 string content = msg;// + "   phone-"+ phone + "    email-"+ email;
                 string fromAddress = "info@netsyssolutions.net";
