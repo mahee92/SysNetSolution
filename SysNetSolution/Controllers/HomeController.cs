@@ -15,6 +15,7 @@ namespace SysNetSolution.Controllers
         public HomeController(ILogger<HomeController> logger)
         {
             //new f
+            //feture -2
             _logger = logger;
            
         }
